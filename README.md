@@ -32,7 +32,7 @@ ParkEngine is a Java-based parking lot management system designed to manage vehi
 ```text
 ParkEngine-Scalable-Parking-Allocation-System/
 ├── src/
-│   └── program1017.java
+│   └── ParkEngine.java
 ├── .gitignore
 └── README.md
 ```
@@ -46,13 +46,13 @@ ParkEngine-Scalable-Parking-Allocation-System/
 ### Compile
 
 ```bash
-javac -d out src/program1017.java
+javac -d out src/ParkEngine.java
 ```
 
 ### Run
 
 ```bash
-java -cp out program1017
+java -cp out ParkEngine
 ```
 
 ## Future Enhancements
@@ -65,3 +65,4 @@ java -cp out program1017
 ## Author
 
 Engineering Student | Aspiring Software Developer
+
